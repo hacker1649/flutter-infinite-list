@@ -2,6 +2,8 @@
 
 A new Flutter project.
 
+It is an example of how to use the bloc and flutter_bloc packages to implement an infinite scrolling list.
+
 In this code repository, we have developed an application that fetches data over the network and dynamically loads it as the user scrolls, utilizing the Flutter framework along with the bloc library.
 
 ## Getting Started
