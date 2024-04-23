@@ -2,6 +2,8 @@
 
 A new Flutter project.
 
+In this code repository, we have developed an application that fetches data over the network and dynamically loads it as the user scrolls, utilizing the Flutter framework along with the bloc library.
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
